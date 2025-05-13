@@ -29,7 +29,7 @@ Soy una desarrolladora Full Stack JavaScript. Disfruto trabajando como Full Stac
 ## 📫 ¿Quieres contactarme?
 
 - Email: rodriguezcuencaberenise@gmail.com
-- LinkedIn: [linkedin.com/in/berenise-rodríguez-cuenca-94925615b](www.linkedin.com/in/berenise-rodríguez-cuenca-94925615b)
+- LinkedIn: [www.linkedin.com/in/berenise-rodríguez-cuenca-94925615b](www.linkedin.com/in/berenise-rodríguez-cuenca-94925615b)
 
 
 ---
